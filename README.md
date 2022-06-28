@@ -6,5 +6,5 @@ This is my repo of the next version of my Car Racing Game Series!
 btw you can play this game by clicking the below link!
 </p>
 <p align="center">
-https://rishab-creator.github.io/CarRacingVersion1
+https://rishab-creator.github.io/CarRacingVersion2
 
