@@ -1,5 +1,10 @@
-# Old School Racing Game
+# CarRacingVersion2
+<p align="center">
+This is my repo of the next version of my Car Racing Game Series!
+</p>
+<p align="center">
+btw you can play this game by clicking the below link!
+</p>
+<p align="center">
+https://rishab-creator.github.io/CarRacingVersion1
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/johan-tirholm/pen/PGYExJ](https://codepen.io/johan-tirholm/pen/PGYExJ).
-
-Use  arrow keys to drive. The basics of a classic style racing game. Inspired by games like "Out Run"  and "F1 Race".
