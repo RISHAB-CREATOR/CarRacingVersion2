@@ -1,5 +1,4 @@
-<p align="center">
-CarRacingVersion2
+# CarRacingVersion2
 <p align="center">
 This is my repo of the second version of my Car Racing Game Series!
 </p>
